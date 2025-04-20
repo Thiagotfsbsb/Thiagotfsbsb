@@ -15,15 +15,10 @@ My journey combines technical expertise, strategic vision, and a constant drive 
 
 ### **Professional Experience**
 
-#### **ERP Support Analyst** | [Company X]  
+#### **ERP Support Analyst** | [Alterdata Software]  
 _2019 - 2023_
 
 In my role as an ERP support analyst, I worked directly on continuous process improvement and system optimisation, ensuring end-users had the best experience interacting with the management tools. I also implemented solutions to integrate ERP modules and automated processes to reduce errors and increase productivity.
-
-#### **Project Management - Australia** | [Company Y]  
-_2019 - 2022_
-
-Based on my international experience, I worked with multicultural teams, managing projects focused on digital transformation and continuous improvement, using **Agile Project Management** practices (Scrum, Kanban) to accelerate deliveries and optimise software development processes.
 
 #### **Consultancy & Tech Innovation** | Freelancer  
 _2023 - Present_
