@@ -1,72 +1,72 @@
-# Thiago - Profissional de Tecnologia & Inovador em Transformação Digital
+# Thiago - Technology Professional & Innovator in Digital Transformation
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta da tecnologia com um histórico de experiência sólida em **Sistemas de Informação**, **Gestão de Projetos** e **Testes de Software**. Meu objetivo é transformar processos e criar soluções que maximizem a eficiência e o valor para os negócios. 
+Welcome to my GitHub profile! I am a technology enthusiast with a strong background in **Information Systems**, **Project Management**, and **Software Testing**. My goal is to transform processes and create solutions that maximise efficiency and value for businesses. 
 
-Minha jornada é uma mistura de expertise técnica, visão estratégica e uma busca constante por inovação. Se você está em busca de uma colaboração transformadora ou insights sobre como otimizar seus projetos tecnológicos, está no lugar certo.
+My journey combines technical expertise, strategic vision, and a constant drive for innovation. If you're looking for a transformative collaboration or insights on how to optimise your tech projects, you're in the right place.
 
-## 🚀 Minha Experiência
+## 🚀 My Experience
 
-### **Formação e Certificações**
+### **Education & Certifications**
 
-- **Bacharelado em Sistemas de Informação**
-- **Certificação CTFL Foundation Level** - Teste de Software
-- **Leadership & Management** - Curso de Liderança, concluído na Austrália
-- **Project Management** - Curso de Gestão de Projetos, com foco em metodologias ágeis e tradicionais (em andamento)
+- **Bachelor's Degree in Information Systems**
+- **CTFL Foundation Level Certification** - Software Testing
+- **Leadership & Management** - Leadership course completed in Australia
+- **Project Management** - Project Management course with a focus on agile and traditional methodologies (ongoing)
 
-### **Experiência Profissional**
+### **Professional Experience**
 
-#### **Analista de Suporte ERP** | [Empresa X]  
+#### **ERP Support Analyst** | [Company X]  
 _2019 - 2023_
 
-Durante minha experiência como analista de suporte ERP, trabalhei diretamente com a melhoria contínua dos processos e a otimização de sistemas, assegurando que os usuários finais tivessem a melhor experiência possível ao interagir com as ferramentas de gestão. Além disso, implementei soluções para integrar módulos de ERP, além de realizar a automação de processos para reduzir erros e aumentar a produtividade.
+In my role as an ERP support analyst, I worked directly on continuous process improvement and system optimisation, ensuring end-users had the best experience interacting with the management tools. I also implemented solutions to integrate ERP modules and automated processes to reduce errors and increase productivity.
 
-#### **Gestão de Projetos - Austrália** | [Empresa Y]  
+#### **Project Management - Australia** | [Company Y]  
 _2019 - 2022_
 
-Com base em minha experiência internacional, trabalhei com equipes multiculturais, gerenciando projetos voltados para transformação digital e melhoria contínua, usando práticas de **Gestão Ágil de Projetos** (Scrum, Kanban) para acelerar entregas e otimizar processos de desenvolvimento de software.
+Based on my international experience, I worked with multicultural teams, managing projects focused on digital transformation and continuous improvement, using **Agile Project Management** practices (Scrum, Kanban) to accelerate deliveries and optimise software development processes.
 
-#### **Consultoria e Inovação Tecnológica** | Freelancer  
-_2023 - Presente_
+#### **Consultancy & Tech Innovation** | Freelancer  
+_2023 - Present_
 
-Atualmente, como consultor, estou ajudando empresas a redefinir suas estratégias digitais e a implementar soluções tecnológicas disruptivas. Através de uma abordagem personalizada, ajudo as empresas a escalar suas operações, melhorar sua performance e explorar novas oportunidades de negócios com o uso estratégico da tecnologia.
+Currently, as a consultant, I am helping businesses redefine their digital strategies and implement disruptive technology solutions. Through a personalised approach, I assist companies in scaling their operations, improving performance, and exploring new business opportunities with the strategic use of technology.
 
-## 💡 Minha Visão Estratégica
+## 💡 My Strategic Vision
 
-Acredito que a inovação tecnológica vai além da implementação de novas ferramentas. Ela envolve entender o problema de forma profunda, transformar processos e integrar soluções de forma que gerem resultados reais e impactem a estrutura de negócios. Meu foco é sempre no retorno sobre o investimento (ROI) e na maximização dos resultados através de um uso inteligente da tecnologia.
+I believe that technological innovation goes beyond implementing new tools. It involves deeply understanding the problem, transforming processes, and integrating solutions in ways that deliver real results and impact business structure. My focus is always on Return on Investment (ROI) and maximising outcomes through intelligent use of technology.
 
-### **Projetos Destacados**
+### **Highlighted Projects**
 
-#### **Plataforma de Gestão para Subloação de Imóveis**  
-Projetos de subloação com análise de viabilidade financeira para gerar fluxo de caixa constante. Foco na maximização da rentabilidade através de soluções baseadas em tecnologia para gestão de propriedades e automação de processos financeiros.
+#### **Sublet Property Management Platform**  
+Real estate subletting projects with financial viability analysis to generate consistent cash flow. Focus on maximising profitability through technology-based solutions for property management and financial process automation.
 
-#### **Impressão 3D para Produtos Personalizados**  
-Desenvolvimento de uma linha de produtos personalizados (miniaturas para casamentos, lembranças e outros artigos), com foco na viabilidade de produção e comercialização de itens únicos para nichos específicos.
+#### **3D Printing for Customised Products**  
+Development of a line of customised products (miniatures for weddings, souvenirs, and other items), focusing on production viability and commercialising unique items for specific niches.
 
-#### **Transformação Digital em Pequenos Negócios**  
-Consultoria voltada para empresas que buscam transitar para a era digital, através de automação de processos e implementação de novas tecnologias que aumentam a produtividade e reduzem os custos operacionais.
+#### **Digital Transformation for Small Businesses**  
+Consultancy aimed at companies transitioning to the digital era, through process automation and implementation of new technologies that increase productivity and reduce operational costs.
 
-## 🧠 Habilidades
+## 🧠 Skills
 
-- **Gestão de Projetos Ágeis (Scrum, Kanban)**
-- **Testes de Software (Automatizados e Manuais)**
-- **Implementação de ERPs**
-- **Gestão de Mudanças e Transformação Digital**
-- **Consultoria e Inovação Tecnológica**
-- **Estratégias de Rentabilidade para Imóveis**
+- **Agile Project Management (Scrum, Kanban)**
+- **Software Testing (Automated and Manual)**
+- **ERP Implementation**
+- **Change Management & Digital Transformation**
+- **Consultancy & Tech Innovation**
+- **Profitability Strategies for Real Estate**
 
-## 🌍 Sobre Mim
+## 🌍 About Me
 
-- **Idiomas:** Fluente em **Inglês** (vivência de 3 anos na Austrália).
-- **Interesses Pessoais:** Apaixonado por desafios técnicos e inovação, adoro explorar novas oportunidades para a implementação de soluções disruptivas.
-- **Visão de Longo Prazo:** Empreendedorismo e independência financeira através de investimentos inteligentes, como imóveis e inovação tecnológica.
+- **Languages:** Fluent in **English** (3 years living in Australia).
+- **Personal Interests:** Passionate about technical challenges and innovation, I love exploring new opportunities for implementing disruptive solutions.
+- **Long-Term Vision:** Entrepreneurship and financial independence through smart investments, such as real estate and technological innovation.
 
-## 📬 Entre em Contato
+## 📬 Get in Touch
 
-Se você tem interesse em discutir projetos de transformação digital, inovação ou até mesmo novas oportunidades de colaboração, não hesite em me contatar. Vamos conversar sobre como podemos gerar impacto através da tecnologia.
+If you're interested in discussing digital transformation projects, innovation, or even new collaboration opportunities, feel free to contact me. Let’s talk about how we can create impact through technology.
 
 [🔗 LinkedIn](https://www.linkedin.com/in/thiago)
 [📧 Email](mailto:thiago@email.com)
 
 ---
 
-**"Tecnologia não é apenas uma ferramenta, mas uma mudança de paradigma."**
+**"Technology is not just a tool, it’s a paradigm shift."**
