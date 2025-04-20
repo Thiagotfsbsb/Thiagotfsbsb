@@ -64,7 +64,7 @@ Consultancy aimed at companies transitioning to the digital era, through process
 
 If you're interested in discussing digital transformation projects, innovation, or even new collaboration opportunities, feel free to contact me. Let’s talk about how we can create impact through technology.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/thiagotfs)
+[🔗 LinkedIn](https://www.linkedin.com/in/tfesthiago)
 [📧 Email](mailto:thiagotfs.bsb@gmail.com)
 
 ---
